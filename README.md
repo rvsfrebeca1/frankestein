@@ -1,2 +1,2 @@
 # frankestein
-A project to test and discover new technologies
+A project to learn, test and discover new technologies
